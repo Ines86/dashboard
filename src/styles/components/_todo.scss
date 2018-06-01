@@ -1,0 +1,34 @@
+// Todo
+.todoContainer {
+  #todo-footer {
+    padding: 25px;
+    button {
+      margin-left: 7px;
+      margin-top: 10px;
+    }
+  }
+
+  li {
+    padding-left: 0;
+  }
+
+  .todoMessage {
+    text-align: center;
+  }
+
+  .todoErrorMessage {
+    text-align: center;
+    color: red;
+  }
+
+  .todoContent {
+    padding: 20px;
+  }
+
+  .todoHeader {
+    background: #3f51b5;
+    span {
+      color: #fff;
+    }
+  }
+}

@@ -1,0 +1,94 @@
+// Social Widget
+.socialWidget {
+  .socialTop {
+    padding: 20px 0;
+    color: #fff;
+  }
+
+  h5 {
+    display: inline-block;
+    padding: 15px;
+    margin: 0;
+  }
+}
+
+.dataWidget {
+  padding: 15px;
+
+  h6 {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    font-weight: normal;
+  }
+
+  h3 {
+    font-size: 3rem;
+    font-weight: normal;
+    margin: 0 0 5px 0;
+    padding: 0;
+  }
+}
+
+.infoWidget {
+  display: flex;
+
+  .infoWidgetIcon {
+    color: #fff;
+    padding: 20px;
+
+    svg {
+      font-size: 3rem;
+    }
+  }
+
+  .infoWidgetText {
+    padding-left: 15px;
+    color: #3f3f3f;
+
+    h5 {
+      text-transform: uppercase;
+      margin: 10px 0;
+      font-weight: normal;
+    }
+
+    h3 {
+      text-align: left;
+      font-weight: bold;
+      margin: 0 0 15px 0;
+    }
+  }
+}
+
+.userAccountHeader {
+  background: #1976d2;
+
+  span:first-child {
+    color: #fff !important;
+  }
+  span:nth-child(2) {
+    color: #fff !important;
+  }
+}
+
+.productListHeader {
+  background: #ab47bc;
+
+  span:first-child {
+    color: #fff !important;
+  }
+  span:nth-child(2) {
+    color: #fff !important;
+  }
+}
+
+.usersActivityHeader {
+  background: #c2185b;
+
+  span:first-child {
+    color: #fff !important;
+  }
+  span:nth-child(2) {
+    color: #fff !important;
+  }
+}

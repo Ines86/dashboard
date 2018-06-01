@@ -1,0 +1,38 @@
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+.is-active {
+  font-weight: bold;
+}
+
+#drawer-wrapper {
+  height: 100% !important;
+}
+
+.rightTopBar {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.customTable {
+  th {
+    background-color: #3f51b5;
+    color: #fff;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  tr {
+    &:hover {
+      background-color: #c5cae9;
+    }
+  }
+}
