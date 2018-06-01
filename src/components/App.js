@@ -9,7 +9,7 @@ import Grid from '@material-ui/core/Grid';
 import InfoBox from './InfoBox';
 import PaperBox from './PaperBox';
 import RecentPostsWidget from './RecentPostsWidget';
-import Todo from './Todo';
+import Todo from './todo/index.js';
 
 class App extends React.Component {
   render() {
