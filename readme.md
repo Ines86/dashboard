@@ -15,7 +15,7 @@
 * SCSS
 * Webpack
 
-## This React Dashboard features:
+## This React Dashboard includes:
 * various types of charts (pie chart, line chart, bi-polar line chart, bi-polar bar chart, stacked bar chart, bi-polar area, donut chart, gauge chart)
 * Todo App: add and filter tasks by three categories: Active Tasks, Completed Tasks, All Tasks
 * Redux Forms (two examples: wizard and simple form)
@@ -27,7 +27,6 @@
 
 
 ## Quick Start
-
 ```
 # Install dependencies
 npm install
